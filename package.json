@@ -1,7 +1,7 @@
 {
-  "name": "ARIF-BABU",
+  "name": "𝐓𝐡𝐞 𝐅𝐮𝐜𝐤𝐞𝐫 🧿🌂",
   "version": "10.1.1",
-  "description": "MADE BY ARIF BABU 🥀",
+  "description": "MADE BY 𝐅𝐮𝐜𝐤𝐞𝐫 𝐃𝐨𝐧'𝐰 🥀",
   "main": "ARIF-BABU.js",
   "engines": {
       "node": "20.x",
@@ -26,7 +26,7 @@
       "prince",
       "mental"
   ],
-  "author": "ARIF-BABU 🥀",
+  "author": "𝐅𝐮𝐜𝐤𝐞𝐫 𝐃𝐨𝐧'𝐰 🥀",
   "license": "GPL-3.0",
   "bugs": {
       "url": "https://github.com/arif-11/arif-bot/issues"
